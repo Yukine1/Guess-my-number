@@ -1,0 +1,22 @@
+{
+  "name": "guessnum",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "start": "parcel index.html",
+    "build": "parcel build index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Yukine1/Guess-my-number.git"
+  },
+  "author": "Oleksandr Kolva",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Yukine1/Guess-my-number/issues"
+  },
+  "homepage": "https://github.com/Yukine1/Guess-my-number#readme",
+  "dependencies": {
+    "parcel": "^2.7.0"
+  }
+}
